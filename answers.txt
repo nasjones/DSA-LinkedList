@@ -1,0 +1,3 @@
+Mystery prog - the program removes any duplicates inside the list
+- Time complexity: polynomial
+
